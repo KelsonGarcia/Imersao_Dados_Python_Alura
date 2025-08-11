@@ -13,4 +13,3 @@ Projeto de imersão com dados disponibilizado pela [Alura](https://cursos.alura.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kelsongarcia)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KelsonGarci4)
