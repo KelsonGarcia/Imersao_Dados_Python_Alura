@@ -12,4 +12,4 @@ Projeto de imersão com dados disponibilizado pela [Alura](https://cursos.alura.
  - [DashBoard sobre salário da área de dados](https://imersaodadospythonalura-kelys.streamlit.app/)
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][(www.linkedin.com/in/kelsongarcia/](https://www.linkedin.com/in/kelsongarcia/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelsongarcia/)
